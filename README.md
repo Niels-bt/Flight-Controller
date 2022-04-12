@@ -1,5 +1,5 @@
 # Flight-Controller
-Flight controller for helicopter and return to home
+Flight controller for RC helicopter and return to home
 
 Photos
 
