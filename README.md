@@ -6,4 +6,4 @@ Image of the helicopter 450 3d at the beginning
 
 Modified version with the Matek F-765 WSE Controller and Frsky RXSR receiver + MN9 GPS
 
-![IMG_20220412_202839](https://user-images.githubusercontent.com/100481752/163030135-7b0897ac-4691-4cb1-b3dc-8e6babe87e4a.jpg)
+![IMG_20220412_202839](https://user-images.githubusercontent.com/100481752/163030745-877d48c2-ca33-463e-be67-44cd9dc60a2e.jpg)
